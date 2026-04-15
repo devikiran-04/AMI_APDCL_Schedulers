@@ -1,4 +1,3 @@
- Here's the complete README code ready to copy-paste:
 
 ```markdown
 # APDCL Schedule Monitor
